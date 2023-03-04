@@ -1,0 +1,1 @@
+### conjunto de algoritmos onde você pode inverter uma String, calcular percentual e verificar se o número selecionado se encontra na sequência de Fibonacci
